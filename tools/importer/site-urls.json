@@ -1,0 +1,81 @@
+{
+  "originUrl": "https://www.birdiesforthebrave.org",
+  "lastCrawled": "https://www.birdiesforthebrave.org/",
+  "urls": [
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
