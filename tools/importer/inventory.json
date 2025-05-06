@@ -5,6 +5,12 @@
       "path": "/nav",
       "instances": [
         {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+          "urlHash": "0a8903562a7617b738c3e8491e8aa51b6008081f",
+          "uuid": "0a890356-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
           "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
           "uuid": "2752521f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
@@ -87,6 +93,12 @@
           "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
           "uuid": "d23392fa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
           "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+          "urlHash": "ff6eafd98bb0e723e046a544073093604606f052",
+          "uuid": "ff6eafd9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
@@ -95,15 +107,21 @@
       "path": "/footer",
       "instances": [
         {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+          "urlHash": "0a8903562a7617b738c3e8491e8aa51b6008081f",
+          "uuid": "0a890356-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
           "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-          "uuid": "2752521f-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "2752521f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
           "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
-          "uuid": "2b2bb280-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "2b2bb280-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -115,19 +133,19 @@
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
           "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
-          "uuid": "31823a7d-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "31823a7d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
           "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-          "uuid": "422a2c75-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "422a2c75-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
           "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
-          "uuid": "44305c78-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "44305c78-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -139,43 +157,49 @@
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
           "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-08-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "54406607-09-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
           "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-          "uuid": "589d3a07-07-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "589d3a07-05-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
           "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-          "uuid": "5f4c4b25-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "5f4c4b25-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
           "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-          "uuid": "6f8cacd8-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "6f8cacd8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
           "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
-          "uuid": "7fa68913-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "7fa68913-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
           "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-          "uuid": "962e9271-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "962e9271-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
           "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-          "uuid": "d23392fa-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "d23392fa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+          "urlHash": "ff6eafd98bb0e723e046a544073093604606f052",
+          "uuid": "ff6eafd9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         }
       ]
@@ -183,141 +207,21 @@
   ],
   "blocks": [
     {
-      "name": "Embed (video)",
+      "name": "Columns",
       "cluster": 1,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
-          "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
-          "uuid": "2b2bb280-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+          "urlHash": "0a8903562a7617b738c3e8491e8aa51b6008081f",
+          "uuid": "0a890356-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
-          "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-          "uuid": "422a2c75-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
-          "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
-          "uuid": "49d93f32-05-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
-          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-08-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
-          "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-          "uuid": "589d3a07-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
-          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-          "uuid": "5f4c4b25-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
-          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-          "uuid": "6f8cacd8-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
-          "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-          "uuid": "962e9271-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-          "uuid": "d23392fa-06-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 2,
-      "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
           "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-          "uuid": "2752521f-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
+          "uuid": "2752521f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
-          "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
-          "uuid": "2b2bb280-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
-          "urlHash": "30ae9ff7c780f88ce4c43e91731f5162b9ad0625",
-          "uuid": "30ae9ff7-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
-          "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
-          "uuid": "31823a7d-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
-          "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-          "uuid": "422a2c75-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
-          "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
-          "uuid": "44305c78-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
-          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-          "uuid": "5f4c4b25-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
-          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-          "uuid": "6f8cacd8-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
-          "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
-          "uuid": "7fa68913-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
-          "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-          "uuid": "962e9271-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        },
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-          "uuid": "d23392fa-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 3,
-      "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
           "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
@@ -337,6 +241,12 @@
           "xpath": "/html[1]/body[1]/header[1]"
         },
         {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
+          "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
+          "uuid": "422a2c75-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
           "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
           "uuid": "44305c78-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
@@ -349,15 +259,15 @@
           "xpath": "/html[1]/body[1]/header[1]"
         },
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
-          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
+          "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
+          "uuid": "589d3a07-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
           "xpath": "/html[1]/body[1]/header[1]"
         },
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
-          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-          "uuid": "5f4c4b25-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
+          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
+          "uuid": "6f8cacd8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
           "xpath": "/html[1]/body[1]/header[1]"
         },
         {
@@ -367,77 +277,53 @@
           "xpath": "/html[1]/body[1]/header[1]"
         },
         {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
+          "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
+          "uuid": "962e9271-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
           "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
           "uuid": "d23392fa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
           "xpath": "/html[1]/body[1]/header[1]"
-        }
-      ]
-    },
-    {
-      "name": "unknown",
-      "cluster": 4,
-      "instances": [
+        },
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
-          "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
-          "uuid": "31823a7d-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        }
-      ]
-    },
-    {
-      "name": "Embed (video)",
-      "cluster": 5,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
-          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-          "uuid": "6f8cacd8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+          "urlHash": "ff6eafd98bb0e723e046a544073093604606f052",
+          "uuid": "ff6eafd9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
           "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 6,
+      "name": "Hero",
+      "cluster": 2,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
           "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
-          "uuid": "31823a7d-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]"
+          "uuid": "31823a7d-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
         }
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 8,
+      "name": "Hero",
+      "cluster": 3,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
-          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-          "uuid": "6f8cacd8-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 10,
-      "instances": [
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
+          "urlHash": "30ae9ff7c780f88ce4c43e91731f5162b9ad0625",
+          "uuid": "30ae9ff7-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]"
+        },
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
-          "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
-          "uuid": "7fa68913-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]"
-        }
-      ]
-    },
-    {
-      "name": "Carousel",
-      "cluster": 11,
-      "instances": [
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
+          "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
+          "uuid": "49d93f32-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]"
+        },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
           "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
@@ -447,104 +333,104 @@
       ]
     },
     {
-      "name": "Embed (video)",
-      "cluster": 12,
+      "name": "unknown",
+      "cluster": 4,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
-          "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
-          "uuid": "7fa68913-04-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
+          "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
+          "uuid": "2b2bb280-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
+          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
+          "uuid": "6f8cacd8-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
         }
       ]
     },
     {
       "name": "Columns",
-      "cluster": 13,
+      "cluster": 6,
       "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
+          "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
+          "uuid": "2752521f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
+          "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
+          "uuid": "2b2bb280-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
+          "urlHash": "30ae9ff7c780f88ce4c43e91731f5162b9ad0625",
+          "uuid": "30ae9ff7-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
           "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-          "uuid": "422a2c75-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]"
-        }
-      ]
-    },
-    {
-      "name": "Embed (video)",
-      "cluster": 14,
-      "instances": [
+          "uuid": "422a2c75-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
           "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
-          "uuid": "44305c78-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "uuid": "44305c78-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
+          "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
+          "uuid": "589d3a07-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
+          "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
+          "uuid": "7fa68913-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
+          "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
+          "uuid": "962e9271-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+          "urlHash": "ff6eafd98bb0e723e046a544073093604606f052",
+          "uuid": "ff6eafd9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         }
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 15,
+      "name": "Carousel",
+      "cluster": 7,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
           "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-          "uuid": "589d3a07-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 17,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-          "uuid": "d23392fa-04-ac18c7f4ff0dda41caddc17273e87ac35c820487",
-          "xpath": "/html[1]/body[1]/main[1]/div[4]"
+          "uuid": "589d3a07-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
+          "xpath": "/html[1]/body[1]/main[1]/div[3]"
         }
       ]
     },
     {
       "name": "Cards",
-      "cluster": 18,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
-          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-04-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 19,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
-          "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
-          "uuid": "49d93f32-04-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 20,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
-          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-          "xpath": "/html[1]/body[1]/main[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 21,
+      "cluster": 8,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
@@ -556,13 +442,169 @@
     },
     {
       "name": "Hero",
-      "cluster": 22,
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
+          "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
+          "uuid": "422a2c75-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
+          "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
+          "uuid": "7fa68913-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+          "urlHash": "0a8903562a7617b738c3e8491e8aa51b6008081f",
+          "uuid": "0a890356-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
+          "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
+          "uuid": "31823a7d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
+          "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
+          "uuid": "6f8cacd8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
+          "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
+          "uuid": "44305c78-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
+          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
+          "uuid": "d23392fa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
+          "uuid": "54406607-02-b44bfb6f91053e616228982ab0752280ea739906",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
+          "uuid": "54406607-05-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
+          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
+          "uuid": "54406607-03-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
+          "xpath": "/html[1]/body[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
           "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-          "uuid": "962e9271-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]"
+          "uuid": "962e9271-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
+          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
+          "uuid": "d23392fa-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
+          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
+          "uuid": "5f4c4b25-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
+          "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
+          "uuid": "2752521f-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
         }
       ]
     },
@@ -571,46 +613,46 @@
       "cluster": 23,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
-          "urlHash": "30ae9ff7c780f88ce4c43e91731f5162b9ad0625",
-          "uuid": "30ae9ff7-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
+          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
+          "uuid": "5f4c4b25-02-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         }
       ]
     },
     {
-      "name": "unknown",
+      "name": "Columns",
       "cluster": 24,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
           "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-07-729dbc69bd6754c600fde0469e2be2df5ed4759f",
-          "xpath": "/html[1]/body[1]/main[1]/div[5]/div[2]"
+          "uuid": "54406607-06-ac18c7f4ff0dda41caddc17273e87ac35c820487",
+          "xpath": "/html[1]/body[1]/main[1]/div[4]"
         }
       ]
     },
     {
-      "name": "Hero",
+      "name": "Columns",
       "cluster": 25,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
+          "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
+          "uuid": "5f4c4b25-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
           "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
-          "uuid": "49d93f32-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 26,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
-          "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-          "uuid": "589d3a07-06-5596712a9a0d6ffed6ca7ff030d405198ba7c1ae",
-          "xpath": "/html[1]/body[1]/main[1]/div[4]/div[2]"
+          "uuid": "49d93f32-04-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
+          "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
         }
       ]
     },
@@ -619,104 +661,56 @@
       "cluster": 27,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
-          "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-          "uuid": "962e9271-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]"
-        }
-      ]
-    },
-    {
-      "name": "unknown",
-      "cluster": 28,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
-          "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-          "uuid": "2752521f-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-          "xpath": "/html[1]/body[1]/main[1]/div[3]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 29,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
-          "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-          "uuid": "2752521f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]"
-        }
-      ]
-    },
-    {
-      "name": "Carousel",
-      "cluster": 30,
-      "instances": [
-        {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
           "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-01-0e656e90ffa9b526f8ce51ba23e08542406d6fcc",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]"
+          "uuid": "54406607-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
     {
       "name": "Embed (video)",
-      "cluster": 31,
+      "cluster": 28,
       "instances": [
         {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
-          "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-          "uuid": "2752521f-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
+          "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
+          "uuid": "49d93f32-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+          "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
+          "uuid": "54406607-09-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         }
       ]
     },
     {
       "name": "Columns",
-      "cluster": 32,
+      "cluster": 30,
       "instances": [
         {
           "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
           "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-          "uuid": "54406607-05-ac18c7f4ff0dda41caddc17273e87ac35c820487",
-          "xpath": "/html[1]/body[1]/main[1]/div[4]"
-        }
-      ]
-    },
-    {
-      "name": "Carousel",
-      "cluster": 33,
-      "instances": [
-        {
-          "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-          "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-          "uuid": "d23392fa-05-2922ed37363f66e6d7ff6723ce2179fcf4091251",
-          "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/p[4]/picture[1]/img[1]"
+          "uuid": "54406607-08-729dbc69bd6754c600fde0469e2be2df5ed4759f",
+          "xpath": "/html[1]/body[1]/main[1]/div[5]/div[2]"
         }
       ]
     }
   ],
   "outliers": [
     {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/callaway-warrior-club-fittings",
-      "urlHash": "2752521fa504d05197568d35d065a06995812e5d",
-      "uuid": "2752521f-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
-      "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
-      "uuid": "2b2bb280-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/privacy",
-      "urlHash": "2b2bb280ffef4204c29704df3c2c28ba3a0c2a52",
-      "uuid": "2b2bb280-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]"
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/footer",
+      "urlHash": "0a8903562a7617b738c3e8491e8aa51b6008081f",
+      "uuid": "0a890356-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
     },
     {
       "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/all-other-programs",
@@ -737,36 +731,6 @@
       "xpath": "/html[1]/body[1]/main[1]/div[3]/div[3]"
     },
     {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/volunteers",
-      "urlHash": "31823a7d641d0e8d6dbdec98f6e3764017e66592",
-      "uuid": "31823a7d-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
-      "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-      "uuid": "422a2c75-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/player-supporters",
-      "urlHash": "422a2c759d92d9191bc72f4859ba1d64ce407e62",
-      "uuid": "422a2c75-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
-      "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
-      "uuid": "44305c78-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect",
-      "urlHash": "44305c78299ece3022cde8bd662281465a1e71f9",
-      "uuid": "44305c78-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]"
-    },
-    {
       "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/charities-we-support",
       "urlHash": "49d93f32ce1f4b46f49f02b95f62145489f1004a",
       "uuid": "49d93f32-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
@@ -781,13 +745,19 @@
     {
       "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
       "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-      "uuid": "54406607-03-58ba820679040862b94ffd9804d9204b6c03e429",
+      "uuid": "54406607-01-b2198061dec525bcf2a9a6fb74e6f640c6dcd5ae",
+      "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
+      "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
+      "uuid": "54406607-04-58ba820679040862b94ffd9804d9204b6c03e429",
       "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]"
     },
     {
       "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/",
       "urlHash": "544066079f784df68543cb3606be7a3eb7e6f09f",
-      "uuid": "54406607-06-d9f0ea1c4b166c6f5c921740e73123522fd76892",
+      "uuid": "54406607-07-d9f0ea1c4b166c6f5c921740e73123522fd76892",
       "xpath": "/html[1]/body[1]/main[1]/div[5]/div[1]"
     },
     {
@@ -799,62 +769,14 @@
     {
       "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
       "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-      "uuid": "589d3a07-03-58ba820679040862b94ffd9804d9204b6c03e429",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]/div[1]"
+      "uuid": "589d3a07-04-ac18c7f4ff0dda41caddc17273e87ac35c820487",
+      "xpath": "/html[1]/body[1]/main[1]/div[4]"
     },
     {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
-      "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-      "uuid": "589d3a07-04-7fdd2b4f0f950f88f30b01c875ca8e93b42e4d0e",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/gallery",
-      "urlHash": "589d3a071939584b7753f0c724475b89a873d170",
-      "uuid": "589d3a07-05-96338249eb84b70b8d6017d6828669b10745ff88",
-      "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
-      "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-      "uuid": "5f4c4b25-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/connect-thanks",
-      "urlHash": "5f4c4b253734179985b3ed7c4b795920d216ce1a",
-      "uuid": "5f4c4b25-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/partners",
-      "urlHash": "6f8cacd812b6abc0507de290ef389d8adab01d68",
-      "uuid": "6f8cacd8-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/fundraising-events",
-      "urlHash": "7fa6891341c5b78f0dae8212a6b447b9827f95a7",
-      "uuid": "7fa68913-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/donate",
-      "urlHash": "962e9271e3c47afbc306ea849b2933a19aacda1f",
-      "uuid": "962e9271-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-      "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-      "uuid": "d23392fa-02-3ab9b21ef6cb3a018359b9f0daf1c63ecf73c7c1",
-      "xpath": "/html[1]/body[1]/main[1]/div[2]"
-    },
-    {
-      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/about-us",
-      "urlHash": "d23392fa44f1d6b46a258473f9494d064b02a34d",
-      "uuid": "d23392fa-03-28b4d3c63d2ccd41cb54740341e225ebae6698c5",
-      "xpath": "/html[1]/body[1]/main[1]/div[3]"
+      "url": "https://main--birdiesforthebrave--hlxsites.hlx.page/terms-of-service",
+      "urlHash": "ff6eafd98bb0e723e046a544073093604606f052",
+      "uuid": "ff6eafd9-01-537891fbd27262d2dc4b84b6afdb15392f581f70",
+      "xpath": "/html[1]/body[1]/main[1]"
     }
   ]
 }
